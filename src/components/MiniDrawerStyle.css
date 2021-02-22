@@ -1,0 +1,8 @@
+.violet-boxshadow, .violet-boxshadow:hover {
+    -webkit-box-shadow: 2px 2px 10px 0 rgb(88 64 187 / 38%);
+    box-shadow: 2px 2px 10px 0 rgb(88 64 187 / 38%);
+}
+
+.title {
+    margin-left: 1rem;
+}
